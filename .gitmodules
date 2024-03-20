@@ -1,0 +1,15 @@
+[submodule "Desktop/HELLO-FOUNDRY/lib/forge-std"]
+	path = Desktop/HELLO-FOUNDRY/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/forge-std"]
+	path = Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/chainlink-brownie-contracts"]
+	path = Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/solmate"]
+	path = Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/foundry-devops"]
+	path = Desktop/FOUNDRY-SMART-CONTRACT-LOTTERY-F23/lib/foundry-devops
+	url = https://github.com/ChainAccelOrg/foundry-devops
